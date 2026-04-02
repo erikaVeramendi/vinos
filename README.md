@@ -5,7 +5,8 @@ Proyecto para Programación Avanzada enfocado en la Automatización, Seguridad y
 Este repositorio contiene el código fuente para la plataforma de inteligencia operativa. El sistema está compuesto por múltiples servicios interconectados diseñados para manejar escalabilidad, análisis de datos en tiempo real y flujos de trabajo basados en Inteligencia Artificial.
 
 ## Documentación
-- [Arquitectura del Backend](docs/backend_architecture.md): Detalles profundos sobre la estructuración de la aplicación en dominios (Domain-Driven Design), la integración de comunicaciones con gRPC/Envoy y la infraestructura en contenedores.
+- [Arquitectura del Backend](docs/backend_architecture.md): Detalles profundos sobre la estructuración de la aplicación en dominios (Domain-Driven Design), la integración de comunicaciones con gRPC/Envoy y la infraestructura cloud.
+- [Flujo de Trabajo con Git](docs/git_workflow.md): Guía estándar de Git detallando nomenclatura de ramas, commits atómicos, uso de stash pop, resets, squash local, y directrices para crear y revisar Pull Requests hasta el Squash & Merge.
 
 ## Stack Tecnológico Resumido
 El proyecto hace uso de tecnología moderna cloud-native:
