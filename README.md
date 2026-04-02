@@ -12,8 +12,8 @@ Este repositorio contiene el código fuente para la plataforma de inteligencia o
 El proyecto hace uso de tecnología moderna cloud-native:
 - **Lenguaje:** Go (Golang)
 - **APIs y Comunicación:** Envoy Proxy, gRPC, Protocol Buffers, REST
-- **Bases de Datos:** PostgreSQL (Transaccional), StarRocks (Analítico)
-- **Infraestructura:** Docker, Kubernetes (Oracle OKE), CI/CD con GitHub Actions
+- **Bases de Datos:** PocketBase (Transaccional local), StarRocks (Analítico)
+- **Infraestructura:** Docker, Docker Compose, CI/CD con GitHub Actions (Deploy vía SSH)
 
 ## Reglas de Desarrollo
 
